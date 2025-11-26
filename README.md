@@ -10,6 +10,8 @@ This repository contains core Machine Learning and Data Analytics algorithms imp
 - K-Nearest Neighbors
 - Support Vector Machine
 - PCA (Principal Component Analysis)
+- K-Means Clustering
+- Naive Bayes Classifier
 
 ## How to Run
 1. Clone the repository
